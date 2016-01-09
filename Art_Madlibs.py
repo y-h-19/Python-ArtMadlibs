@@ -1,6 +1,5 @@
-#Phase 3: Final project
 #Art Madlibs
-#Yuna Hahn and Clare Lee
+#Yuna H. and Clare L.
 
 from Tkinter import *
 from turtle import*
